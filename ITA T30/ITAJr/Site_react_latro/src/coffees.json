@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "tag": "Tradicional",
+    "name": "Expresso Tradicional",
+    "description": "O tradicional café feito com água quente e grãos moídos",
+    "price": "9,90"
+  },
+  {
+    "id": 2,
+    "tag": "Tradicional",
+    "name": "Expresso Americano",
+    "description": "Expresso diluído, leve e menos intenso que o tradicional",
+    "price": "9,90"
+  },
+  {
+    "id": 3,
+    "tag": "Tradicional",
+    "name": "Expresso Cremoso",
+    "description": "Café expresso tradicional com uma espuma cremosa",
+    "price": "10,50"
+  },
+  {
+    "id": 4,
+    "tag": "Gelado",
+    "name": "Expresso Gelado",
+    "description": "Bebida preparada com café expresso e cubos de gelo",
+    "price": "10,90"
+  }
+]
