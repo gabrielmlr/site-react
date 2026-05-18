@@ -7,7 +7,7 @@ import { CartContextProvider } from './contexts/CartContext';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/site-react">
       <CartContextProvider> 
         <Header />
         <Routes>
